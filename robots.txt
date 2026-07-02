@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://patrasangram1985-hub.github.io/Odisha_Taxi_Pro_Website.html/sitemap.xml
